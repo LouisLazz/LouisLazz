@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LouisLazz
+- 👀 I’m interested in tech, coding, and sport.
+- 🌱 I’m currently learning Python.
